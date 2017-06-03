@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.0.*",
-		"phpunit/phpunit": "6.*",
+		"phpunit/phpunit": "4.*",
 		"theseer/fxsl": "1.0.*@dev",
 		"squizlabs/php_codesniffer": "1.4.6",
 		"phpmd/phpmd": "1.5.0",
